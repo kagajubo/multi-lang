@@ -1,0 +1,28 @@
+
+
+const char* const str_table_kor[] = 
+{
+    /* "                             */ "Korean"                     , 
+    /* menu"                        */ "메뉴"                   , 
+    /* Camera & Audio"               */ "카메라 및 오디오"             , 
+    /* Camera"                       */ "카메라"                     , 
+    /* Record"                       */ "녹화"                       , 
+    /* Record Speed"                 */ "녹화속도"                   , 
+    /* Record Quality"               */ "녹화화질"                   , 
+    /* Record Schedule"              */ "스케쥴"                     , 
+    /* Record Resolution"            */ "해상도"                     , 
+    /* Sensor"                       */ "센서"                       , 
+    /* Sensor 1"                     */ "센서 1"                       , 
+    /* Sensor 2"                     */ "센서 2"                       , 
+    /* Sensor 3"                     */ "센서 3"                       , 
+    /* Sensor 4"                     */ "센서 4"                       , 
+    /* Sensor 5"                     */ "센서 5"                       , 
+    /* Sensor 6"                     */ "센서 6"                       , 
+    /* Sensor 7"                     */ "센서 7"                       , 
+    /* Sensor 8"                     */ "센서 8"                       , 
+    /* Motion Detection"             */ "움직임감지"                 , 
+    /* Audio"                        */ "오디오"                     , 
+    /* System"                       */ "시스템"                     , 
+    /* Alarm Duration"               */ "알람출력 시간"              , 
+    /* END 			     */ ""                		      
+};

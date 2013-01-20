@@ -1,0 +1,4 @@
+---- ReadCharDistX_U Matches (3 in 3 files) ----
+Font.c (z:\fontmaker\project\font):		return ReadCharDistX_U(wCode);
+Unicode.c (z:\fontmaker\project\font\unicode):DWORD ReadCharDistX_U(WORD wCode)
+Unicode.h (z:\fontmaker\project\font\unicode):DWORD ReadCharDistX_U(WORD wCode);

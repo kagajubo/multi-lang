@@ -1,0 +1,25 @@
+﻿
+
+const char * const str_table_chi_simplified[] = 
+{
+	/* "Chiness" */    "简体中文",
+	/* "MENU" */    "消息框示例",
+	/* "Camera / Audio" */    "摄像头",
+	/* "Camera" */    "摄像头",
+	/* "Record" */    "录像",
+	/* "Record Speed" */    "录像帧率",
+	/* "Record Quality" */    "录像质量",
+	/* "Record Schedule" */    "录像计划",
+	/* "Record Resolution" */    "录像分辨率",
+	/* "Sensor" */    "报警",
+	/* "Sensor 1" */    "报警1",
+	/* "Sensor 2" */    "报警2",
+	/* "Sensor 3" */    "报警3",
+	/* "Sensor 4" */    "报警4",
+	/* "Sensor 5" */    "报警5",
+	/* "Sensor 6" */    "报警6",
+	/* "Sensor 7" */    "报警7",
+	/* "Sensor 8" */    "报警8",
+	/* "Sensor Alarm Duration" */    "报警持续时间",
+    	/* END			   */                               ""
+};

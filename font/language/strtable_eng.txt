@@ -1,0 +1,24 @@
+
+ const char* const str_table_eng[] =
+{
+	"English",
+	"MENU",
+	"Camera / Audio",
+	"Camera",
+	"Record",
+	"Record Speed",
+	"Record Quality",
+	"Record Schedule",
+	"Record Resolution",
+	"Sensor",
+	"Sensor 1",
+	"Sensor 2",
+	"Sensor 3",
+	"Sensor 4",
+	"Sensor 5",
+	"Sensor 6",
+	"Sensor 7",
+	"Sensor 8",
+	"Sensor Alarm Duration",
+	""
+};
